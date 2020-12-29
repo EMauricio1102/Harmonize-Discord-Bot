@@ -1,0 +1,11 @@
+{
+    "token" : //YOUR DISCORD API KEY HERE
+    ,
+    "owner" : //DISCORD SERVER OWNER ID
+    ,
+    "prefix": //PICK ANY SYMBOL TO PREFIX COMMANDS
+    ,
+    "nodes": [ 
+        { "host": "localhost", "port": 2333, "password": "youshallnotpass" }
+    ]
+}
